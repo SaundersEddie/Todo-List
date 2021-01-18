@@ -33,4 +33,6 @@ Material-UI https://material-ui.com/
 
 ## Future Enhancement
 
+Update the timestamp to prevent truncation of leading zeroes when the time in below 10 after the hour.
+
 ## Contribution

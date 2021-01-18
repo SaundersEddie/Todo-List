@@ -16,7 +16,9 @@ export default function TodoForm( {addTodo}) {
     function handleSubmit(e) {
         e.preventDefault();
         let currentTime = new Date();
-        let createTime = `${currentTime.getHours()}:${currentTime.getMinutes()}` 
+        let currentMinutes = currentTime.getMinutes();
+        if (currentMinutes < 10) currentMinutes = "0" + currentTime.getMinutes();
+        let createTime = `${currentTime.getHours()}:${currentMinutes}` 
         var myTodo = `${createTime} ${todo.task.trim()}`;
 
         if (todo.task) {
