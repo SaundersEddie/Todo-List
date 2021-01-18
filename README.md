@@ -33,6 +33,10 @@ Material-UI https://material-ui.com/
 
 ## Future Enhancement
 
-Update the timestamp to prevent truncation of leading zeroes when the time in below 10 after the hour.
+None planned at this time.
 
 ## Contribution
+
+Code was writted by Edwyn Saunders
+
+[Github](https://github.com/saundersEddie) • [Facebook](https://www.facebook.com) • [Contact Me](mailto:edwyn.saunders@outlook.com)
