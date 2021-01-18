@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ce86b30c-8b96-43b5-a8fc-d80866e9c529/deploy-status)](https://app.netlify.com/sites/nervous-hoover-25f721/deploys)
 
-Small web app to create a todo list, thie also adds time created to the item and used Material-UI to display the front end experience.
+Small web app to create a todo list, you can then sit back and thinkk about the list.
 
 ## Contents
 
@@ -33,7 +33,7 @@ Material-UI https://material-ui.com/
 
 ## Future Enhancement
 
-None planned at this time.
+Some colour clean up.
 
 ## Contribution
 

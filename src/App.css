@@ -10,26 +10,17 @@
 body,
 html,
 #root {
-  background-image: url("./assets/the-thinker.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-color: blanchedalmond;
+  background-color: lightskyblue;
   height: 100%;
-  color: white;
+  color: rgba(54, 24, 24, 0.671);
 }
 
 .todo-form {
   display: flex;
   flex-direction: row;
   align-items: center;
-  color: white;
 }
 
 li {
   text-align: initial;
-}
-
-.myTextfield {
-  color: bisque !important;
 }
