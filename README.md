@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ce86b30c-8b96-43b5-a8fc-d80866e9c529/deploy-status)](https://app.netlify.com/sites/nervous-hoover-25f721/deploys)
 
-Small web app to create a todo list, you can then sit back and thinkk about the list.
+Small web app to create a todo list, you can then sit back and think about the list.
 
 ## Contents
 
